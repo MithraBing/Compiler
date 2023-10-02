@@ -1,0 +1,6 @@
+obj/Debug/net5.0/BlaiseParser.cs
+obj/Debug/net5.0/BlaiseLexer.cs
+obj/Debug/net5.0/BlaiseListener.cs
+obj/Debug/net5.0/BlaiseBaseListener.cs
+obj/Debug/net5.0/BlaiseVisitor.cs
+obj/Debug/net5.0/BlaiseBaseVisitor.cs
